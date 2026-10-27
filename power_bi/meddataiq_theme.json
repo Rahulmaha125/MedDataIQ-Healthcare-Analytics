@@ -1,0 +1,119 @@
+{
+  "name": "MedDataIQ Futuristic Dark",
+  "dataColors": [
+    "#00F2FE",
+    "#3B82F6",
+    "#10B981",
+    "#F59E0B",
+    "#F43F5E",
+    "#8B5CF6",
+    "#06B6D4",
+    "#EC4899",
+    "#6366F1",
+    "#14B8A6"
+  ],
+  "background": "#060913",
+  "foreground": "#F8FAFC",
+  "tableAccent": "#00F2FE",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#0D1322" } },
+            "transparency": 10
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#1E293B" } },
+            "radius": 8
+          }
+        ],
+        "title": [
+          {
+            "fontColor": { "solid": { "color": "#F8FAFC" } },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12,
+            "alignment": "Left"
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#000000" } },
+            "position": "Outer",
+            "preset": "BottomRight",
+            "shadowSpread": 2,
+            "shadowBlur": 8,
+            "shadowAngle": 135,
+            "shadowDistance": 4,
+            "transparency": 40
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#060913" } },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#060913" } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#00F2FE" } },
+            "fontSize": 24,
+            "fontFamily": "Segoe UI Bold"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#94A3B8" } },
+            "fontSize": 10,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": false,
+            "gridHorizontal": true,
+            "gridHorizontalColor": { "solid": { "color": "#1E293B" } },
+            "rowPadding": 4
+          }
+        ],
+        "columnHeaders": [
+          {
+            "fontColor": { "solid": { "color": "#00F2FE" } },
+            "backColor": { "solid": { "color": "#111827" } },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 10
+          }
+        ],
+        "values": [
+          {
+            "fontColorPrimary": { "solid": { "color": "#F8FAFC" } },
+            "fontColorSecondary": { "solid": { "color": "#94A3B8" } },
+            "backColorPrimary": { "solid": { "color": "#0A0F1D" } },
+            "backColorSecondary": { "solid": { "color": "#0D1322" } }
+          }
+        ]
+      }
+    }
+  }
+}
