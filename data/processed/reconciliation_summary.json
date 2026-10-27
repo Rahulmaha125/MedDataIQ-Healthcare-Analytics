@@ -1,0 +1,84 @@
+{
+  "audit_title": "MedDataIQ Service-to-Billing Reconciliation Audit",
+  "execution_timestamp": "2026-10-27 19:50:46",
+  "executive_kpis": {
+    "total_audited_records": 6010,
+    "clean_parity_records": 4567,
+    "flagged_discrepancy_records": 1443,
+    "clean_parity_rate_pct": 75.99,
+    "discrepancy_rate_pct": 24.01,
+    "total_clinical_cost": 4501299.15,
+    "total_billed_amount": 4560904.11,
+    "total_paid_amount": 3343206.23,
+    "net_variance": 59604.96,
+    "total_financial_exposure_at_risk": 640735.14
+  },
+  "category_breakdown": [
+    {
+      "reconciliation_status": "UNBILLED_SERVICE",
+      "record_count": 240,
+      "percentage_of_total": 3.99,
+      "total_clinical_cost": 224443.42,
+      "total_billed_amount": 0.0,
+      "total_paid_amount": 0.0,
+      "total_variance": -224443.42,
+      "risk_tier": "HIGH",
+      "audit_guidance": "Clinical service completed but no claim filed; potential revenue leakage."
+    },
+    {
+      "reconciliation_status": "DUPLICATE_CLAIM",
+      "record_count": 240,
+      "percentage_of_total": 3.99,
+      "total_clinical_cost": 0.0,
+      "total_billed_amount": 189343.57,
+      "total_paid_amount": 144847.86,
+      "total_variance": 189343.57,
+      "risk_tier": "HIGH",
+      "audit_guidance": "Multiple claims submitted for identical service; voiding recommended."
+    },
+    {
+      "reconciliation_status": "AMOUNT_VARIANCE",
+      "record_count": 539,
+      "percentage_of_total": 8.97,
+      "total_clinical_cost": 468370.55,
+      "total_billed_amount": 526375.03,
+      "total_paid_amount": 357934.77,
+      "total_variance": 58004.48,
+      "risk_tier": "MEDIUM",
+      "audit_guidance": "Billed amount deviates from clinical encounter total cost."
+    },
+    {
+      "reconciliation_status": "UNMATCHED_BILL",
+      "record_count": 40,
+      "percentage_of_total": 0.67,
+      "total_clinical_cost": 0.0,
+      "total_billed_amount": 36700.33,
+      "total_paid_amount": 0.0,
+      "total_variance": 36700.33,
+      "risk_tier": "HIGH",
+      "audit_guidance": "Billed claim exists with no clinical encounter in EHR; audit documentation."
+    },
+    {
+      "reconciliation_status": "CLEAN_MATCH",
+      "record_count": 4567,
+      "percentage_of_total": 75.99,
+      "total_clinical_cost": 3452058.27,
+      "total_billed_amount": 3452058.27,
+      "total_paid_amount": 2640824.59,
+      "total_variance": 0.0,
+      "risk_tier": "LOW",
+      "audit_guidance": "Service and billing amounts match within acceptable threshold."
+    },
+    {
+      "reconciliation_status": "TIMING_SKEW",
+      "record_count": 384,
+      "percentage_of_total": 6.39,
+      "total_clinical_cost": 356426.91,
+      "total_billed_amount": 356426.91,
+      "total_paid_amount": 199599.01,
+      "total_variance": 0.0,
+      "risk_tier": "MEDIUM",
+      "audit_guidance": "Submission date occurs prematurely or exceeds 120-day limit."
+    }
+  ]
+}

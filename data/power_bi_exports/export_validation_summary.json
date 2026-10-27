@@ -1,0 +1,51 @@
+{
+  "encounter_rows": 5730,
+  "claims_rows": 5770,
+  "reconciliation_rows": 6010,
+  "total_clinical_cost_encounter": 4501299.15,
+  "total_clinical_cost_recon": 4501299.15,
+  "clinical_cost_parity_match": true,
+  "total_billed_amount_claims": 4560904.11,
+  "total_billed_amount_recon": 4560904.11,
+  "billed_amount_parity_match": true,
+  "net_financial_variance": 59604.96,
+  "net_variance_exact_match": true,
+  "exported_files": {
+    "Dim_Date": {
+      "rows": 1461,
+      "path": "D:\\MedDataIQ\\data\\power_bi_exports\\Dim_Date.csv"
+    },
+    "Dim_Patient": {
+      "rows": 1000,
+      "path": "D:\\MedDataIQ\\data\\power_bi_exports\\Dim_Patient.csv"
+    },
+    "Dim_Organization": {
+      "rows": 6,
+      "path": "D:\\MedDataIQ\\data\\power_bi_exports\\Dim_Organization.csv"
+    },
+    "Dim_Provider": {
+      "rows": 30,
+      "path": "D:\\MedDataIQ\\data\\power_bi_exports\\Dim_Provider.csv"
+    },
+    "Dim_Payer": {
+      "rows": 7,
+      "path": "D:\\MedDataIQ\\data\\power_bi_exports\\Dim_Payer.csv"
+    },
+    "Fact_Encounter": {
+      "rows": 5730,
+      "path": "D:\\MedDataIQ\\data\\power_bi_exports\\Fact_Encounter.csv"
+    },
+    "Fact_Billing": {
+      "rows": 5770,
+      "path": "D:\\MedDataIQ\\data\\power_bi_exports\\Fact_Billing.csv"
+    },
+    "Fact_Reconciliation": {
+      "rows": 6010,
+      "path": "D:\\MedDataIQ\\data\\power_bi_exports\\Fact_Reconciliation.csv"
+    },
+    "Fact_DataQuality": {
+      "rows": 43,
+      "path": "D:\\MedDataIQ\\data\\power_bi_exports\\Fact_DataQuality.csv"
+    }
+  }
+}

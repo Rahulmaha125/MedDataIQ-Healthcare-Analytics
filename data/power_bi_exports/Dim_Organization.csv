@@ -1,0 +1,7 @@
+organization_id,organization_name,address,city,state,zip_code,latitude,longitude,phone,revenue,utilization_rate
+bb2e1640-a166-4c3d-9616-9c3916340365,Massachusetts General Hospital,55 Fruit St,Boston,MA,2114,42.3628,-71.0691,617-726-2000,250000000,92
+5ce06230-0894-4816-bb98-a7b922f3788c,Beth Israel Deaconess Medical Center,330 Brookline Ave,Boston,MA,2215,42.3394,-71.1066,617-667-7000,180000000,88
+e0756dbf-5349-4baa-b442-6f455f86566d,Boston Medical Center,1 Boston Medical Ctr Pl,Boston,MA,2118,42.3353,-71.0728,617-638-8000,140000000,85
+b528cfe7-ea1b-437f-a7c3-63f1ea16081d,UMass Memorial Medical Center,55 Lake Ave N,Worcester,MA,1655,42.2743,-71.7617,508-334-1000,120000000,80
+1f28770d-f1f9-454a-926a-190af3db88e5,Baystate Medical Center,759 Chestnut St,Springfield,MA,1199,42.1245,-72.6041,413-794-0000,110000000,78
+abe303cf-4949-402b-aa97-65da6549af97,Cambridge Health Alliance,1493 Cambridge St,Cambridge,MA,2139,42.3748,-71.1039,617-665-1000,85000000,75

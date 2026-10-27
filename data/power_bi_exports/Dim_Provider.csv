@@ -1,0 +1,31 @@
+provider_id,organization_id,provider_name,gender,specialty,address,city,state,zip_code,latitude,longitude
+0e9ad1c4-c504-4726-a9a7-998e31fc5bea,abe303cf-4949-402b-aa97-65da6549af97,Dr. James Lopez,M,Emergency Medicine,1493 Cambridge St,Cambridge,MA,2139,42.3748,-71.1039
+a8ba36d8-f6ac-4986-8f18-917d9cd91467,5ce06230-0894-4816-bb98-a7b922f3788c,Dr. Robert Lopez,M,General Practice,330 Brookline Ave,Boston,MA,2215,42.3394,-71.1066
+5cc48f08-0fdd-4985-a38c-8048a80b7e05,abe303cf-4949-402b-aa97-65da6549af97,Dr. Charles Miller,M,General Practice,1493 Cambridge St,Cambridge,MA,2139,42.3748,-71.1039
+62f34c62-4f50-41e4-8e07-2b262b64887f,bb2e1640-a166-4c3d-9616-9c3916340365,Dr. Michael Brown,M,Pediatrics,55 Fruit St,Boston,MA,2114,42.3628,-71.0691
+7cd0ffe9-0900-44fc-b610-2c830a657be9,1f28770d-f1f9-454a-926a-190af3db88e5,Dr. Thomas Brown,M,Family Medicine,759 Chestnut St,Springfield,MA,1199,42.1245,-72.6041
+7b33dcee-eacd-4b09-96f6-12d19463f90b,abe303cf-4949-402b-aa97-65da6549af97,Dr. Linda Davis,F,Pediatrics,1493 Cambridge St,Cambridge,MA,2139,42.3748,-71.1039
+952b7947-68b0-4e4d-afe8-ce97d7a1a2e0,e0756dbf-5349-4baa-b442-6f455f86566d,Dr. Anthony Gonzalez,M,Internal Medicine,1 Boston Medical Ctr Pl,Boston,MA,2118,42.3353,-71.0728
+971fbc1d-0994-4da1-ba6c-79aac6d77f7a,abe303cf-4949-402b-aa97-65da6549af97,Dr. Barbara Jones,F,Internal Medicine,1493 Cambridge St,Cambridge,MA,2139,42.3748,-71.1039
+955b4ede-5f1d-4b07-9ed1-d9d688cc69c9,5ce06230-0894-4816-bb98-a7b922f3788c,Dr. Patricia Johnson,F,Cardiology,330 Brookline Ave,Boston,MA,2215,42.3394,-71.1066
+ddecf55a-d4bd-4715-9b2e-84b217e00574,bb2e1640-a166-4c3d-9616-9c3916340365,Dr. Margaret Garcia,F,Pediatrics,55 Fruit St,Boston,MA,2114,42.3628,-71.0691
+74c5b980-8abd-4737-8a74-8b510ed68dcd,e0756dbf-5349-4baa-b442-6f455f86566d,Dr. Matthew Davis,M,Pediatrics,1 Boston Medical Ctr Pl,Boston,MA,2118,42.3353,-71.0728
+944a55d3-8d8d-4db9-b6b8-4112f6e9433e,bb2e1640-a166-4c3d-9616-9c3916340365,Dr. Patricia Rodriguez,F,Emergency Medicine,55 Fruit St,Boston,MA,2114,42.3628,-71.0691
+00309d7c-0d55-4d1f-b4e9-34099a22ae3d,abe303cf-4949-402b-aa97-65da6549af97,Dr. Karen Brown,F,Family Medicine,1493 Cambridge St,Cambridge,MA,2139,42.3748,-71.1039
+537d61a4-0cf7-436a-9404-81bca9438e25,bb2e1640-a166-4c3d-9616-9c3916340365,Dr. Daniel Brown,M,Emergency Medicine,55 Fruit St,Boston,MA,2114,42.3628,-71.0691
+3b3b5545-bdc9-4b16-812d-3f687b02a7e4,bb2e1640-a166-4c3d-9616-9c3916340365,Dr. Donald Johnson,M,Cardiology,55 Fruit St,Boston,MA,2114,42.3628,-71.0691
+94d4b293-1984-4120-9c90-579c538d77f5,e0756dbf-5349-4baa-b442-6f455f86566d,Dr. Nancy Wilson,F,Emergency Medicine,1 Boston Medical Ctr Pl,Boston,MA,2118,42.3353,-71.0728
+90c895c0-b531-4950-9033-db1f9860ef64,5ce06230-0894-4816-bb98-a7b922f3788c,Dr. Barbara Brown,F,Family Medicine,330 Brookline Ave,Boston,MA,2215,42.3394,-71.1066
+026905a5-0097-40a8-ab22-a79c18f712cd,e0756dbf-5349-4baa-b442-6f455f86566d,Dr. Charles Hernandez,M,Internal Medicine,1 Boston Medical Ctr Pl,Boston,MA,2118,42.3353,-71.0728
+f38a6876-02f5-4c8e-bb51-e6ca237fb730,1f28770d-f1f9-454a-926a-190af3db88e5,Dr. Robert Davis,M,Cardiology,759 Chestnut St,Springfield,MA,1199,42.1245,-72.6041
+925c201c-1447-46d1-9af2-fec104ed7e2a,e0756dbf-5349-4baa-b442-6f455f86566d,Dr. Daniel Garcia,M,General Practice,1 Boston Medical Ctr Pl,Boston,MA,2118,42.3353,-71.0728
+3ec872c0-f8db-457d-9032-1ebe1b5a29fa,5ce06230-0894-4816-bb98-a7b922f3788c,Dr. Anthony Garcia,M,Cardiology,330 Brookline Ave,Boston,MA,2215,42.3394,-71.1066
+cc2416d7-4b32-4042-8a74-076e411678c2,e0756dbf-5349-4baa-b442-6f455f86566d,Dr. Michael Anderson,M,Pediatrics,1 Boston Medical Ctr Pl,Boston,MA,2118,42.3353,-71.0728
+f3f2c681-eb27-4cac-9f20-efe0288bc024,abe303cf-4949-402b-aa97-65da6549af97,Dr. Linda Hernandez,F,Cardiology,1493 Cambridge St,Cambridge,MA,2139,42.3748,-71.1039
+22b3b63e-a7ca-4134-a6a8-789810f9f4cf,b528cfe7-ea1b-437f-a7c3-63f1ea16081d,Dr. Jennifer Jones,F,Internal Medicine,55 Lake Ave N,Worcester,MA,1655,42.2743,-71.7617
+deabfa65-3d14-49f4-a072-fd340bb4c799,5ce06230-0894-4816-bb98-a7b922f3788c,Dr. Lisa Martinez,F,Cardiology,330 Brookline Ave,Boston,MA,2215,42.3394,-71.1066
+227c47b7-c2d2-4aca-95e5-27b8f8a14050,1f28770d-f1f9-454a-926a-190af3db88e5,Dr. Barbara Brown,F,Internal Medicine,759 Chestnut St,Springfield,MA,1199,42.1245,-72.6041
+541010ef-d813-415f-b594-4e59b3bf0a47,1f28770d-f1f9-454a-926a-190af3db88e5,Dr. Patricia Gonzalez,F,General Practice,759 Chestnut St,Springfield,MA,1199,42.1245,-72.6041
+effdfb00-6586-49cf-9c56-2956855cf7e7,bb2e1640-a166-4c3d-9616-9c3916340365,Dr. Daniel Williams,M,Family Medicine,55 Fruit St,Boston,MA,2114,42.3628,-71.0691
+c66ffe82-409e-4ca3-a7d5-0f5748a3b57b,b528cfe7-ea1b-437f-a7c3-63f1ea16081d,Dr. Richard Miller,M,Pediatrics,55 Lake Ave N,Worcester,MA,1655,42.2743,-71.7617
+55150f69-0fa9-4a72-89d1-670763c478e6,b528cfe7-ea1b-437f-a7c3-63f1ea16081d,Dr. Sarah Wilson,F,General Practice,55 Lake Ave N,Worcester,MA,1655,42.2743,-71.7617

@@ -1,0 +1,8 @@
+payer_id,payer_name,address,city,state,zip_code,phone
+7faef1a8-fe6f-451f-8cac-7bf3fe34f1d9,Medicare,7500 Security Blvd,Baltimore,MD,21244,800-633-4227
+ccdb21d6-72e7-4a7b-b4f1-0526bcc87293,Medicaid MA (MassHealth),100 Hancock St,Quincy,MA,2171,800-841-2900
+207e4ebd-2fa1-41ad-9793-992b0bee98ef,Blue Cross Blue Shield of Massachusetts,101 Huntington Ave,Boston,MA,2199,800-262-2583
+3f341c7b-9f24-41e2-97d6-6367fa40ca38,Harvard Pilgrim Health Care,93 Worcester St,Wellesley,MA,2481,888-333-4742
+fc5d9a4c-b936-40d2-acd2-03a25e8863c7,Tufts Health Plan,705 Mt Auburn St,Watertown,MA,2472,800-462-0224
+f5929de0-6537-49b3-a187-15ea353159c5,UnitedHealthcare,9900 Bren Rd E,Minnetonka,MN,55343,800-842-8000
+9d8ef2bd-c5f6-47e8-8c05-e97c147fef1b,NO_INSURANCE,100 Self Pay Way,Boston,MA,2101,000-000-0000
