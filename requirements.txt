@@ -1,0 +1,18 @@
+# MedDataIQ — Healthcare Data Quality & Analytics Platform
+# Core Dependencies
+
+# Data manipulation & analytics
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Visualization & Web Application
+streamlit>=1.35.0
+plotly>=5.22.0
+
+# Database & SQL ORM
+sqlalchemy>=2.0.0
+python-dotenv>=1.0.0
+psycopg2-binary>=2.9.9
+
+# Machine Learning (optional/evaluative)
+scikit-learn>=1.4.0
