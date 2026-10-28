@@ -103,8 +103,7 @@ with st.sidebar:
         "🏥 Hospital Connect & Data Hub" if not is_connect_active else "🟢 Active: Hospital Ingestion Hub",
         key="btn_nav_connect",
         type="primary" if is_connect_active else "secondary",
-        use_container_width=True,
-        help="Connect hospital EHR, upload custom CSVs, or stream SQL database"
+        use_container_width=True
     ):
         st.session_state["current_page"] = "Hospital Connect & Data Hub"
         st.rerun()

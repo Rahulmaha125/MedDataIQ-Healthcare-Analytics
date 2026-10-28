@@ -249,7 +249,7 @@ def render(db: DatabaseManager):
 
         facility_df = db.execute_query("""
             SELECT 
-                o.name as "Hospital Facility",
+                o.organization_name as "Hospital Facility",
                 o.city as "City",
                 o.state as "State",
                 COUNT(e.encounter_id) as "Total Visits",
@@ -258,7 +258,7 @@ def render(db: DatabaseManager):
                 ROUND(AVG(e.total_claim_cost), 2) as "Avg Spend / Visit ($)"
             FROM dim_organizations o
             LEFT JOIN fact_encounters e ON o.organization_id = e.organization_id
-            GROUP BY o.organization_id, o.name, o.city, o.state
+            GROUP BY o.organization_id, o.organization_name, o.city, o.state
             ORDER BY "Total Visits" DESC
         """)
 
